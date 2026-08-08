@@ -51,5 +51,6 @@ The other two routes were deliberately **not** flagged for action — Nordic Fre
 
 ## Business impact
 Demonstrates the core BA skill: turning a vague ask ("reduce freight costs") into a scoped requirement, a data-backed recommendation, and a documented rationale a Logistics Manager or Finance stakeholder could act on directly.
+
 ---
 *Dataset is simulated for portfolio purposes, structured on real Irish post-Brexit freight route patterns. All cleaning, SQL, and Excel formula logic is fully reproducible.*
