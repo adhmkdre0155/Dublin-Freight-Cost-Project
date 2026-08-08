@@ -51,9 +51,5 @@ The other two routes were deliberately **not** flagged for action — Nordic Fre
 
 ## Business impact
 Demonstrates the core BA skill: turning a vague ask ("reduce freight costs") into a scoped requirement, a data-backed recommendation, and a documented rationale a Logistics Manager or Finance stakeholder could act on directly.
-
-## CV / LinkedIn bullet
-> Led a logistics cost-optimization analysis across 3 freight routes and 3 carriers; recommended a carrier reallocation projected to cut route-level freight cost by 12.4% (€130K+ over 2 years) while improving on-time delivery from 87.9% to 93.1%.
-
 ---
 *Dataset is simulated for portfolio purposes, structured on real Irish post-Brexit freight route patterns. All cleaning, SQL, and Excel formula logic is fully reproducible.*
