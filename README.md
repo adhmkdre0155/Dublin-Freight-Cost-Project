@@ -10,7 +10,7 @@ A logistics/import business wants to reduce per-shipment freight cost across rou
 Ireland's post-Brexit supply chains rely heavily on Dublin Port and Rosslare Europort, with a mix of the traditional UK landbridge route and newer direct EU routes that grew to avoid UK customs friction. Freight cost efficiency is a live, current topic for Irish importers.
 
 ## Dataset
-A simulated shipments dataset (5,970 cleaned shipments, 2024–2025) structured around the real Irish freight route landscape: **UK Landbridge (Dublin-Holyhead)**, **EU Direct (Dublin-Cherbourg)**, and **EU Direct (Rosslare-Dunkirk)**, across 3 carriers. Generated with realistic data-quality issues (inconsistent carrier name casing, missing transit days, duplicate shipment IDs, a handful of data-entry weight errors) so the cleaning step is genuine. See `data/generate_data.py` for full generation logic.
+A simulated shipments dataset (5,970 cleaned shipments, 2024–2025) structured around the real Irish freight route landscape: **UK Landbridge (Dublin-Holyhead)**, **EU Direct (Dublin-Cherbourg)**, and **EU Direct (Rosslare-Dunkirk)**, across 3 carriers. Generated with realistic data-quality issues (inconsistent carrier name casing, missing transit days, duplicate shipment IDs, a handful of data-entry weight errors) so the cleaning step is genuine. See [Generate Data](data/generate_data.py) for full generation logic.
 
 ## Tools
 Excel (openpyxl, formula-driven) · SQL (SQLite) · Chart.js for the interactive dashboard · Graphviz for the process flow diagram.
